@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>Images/Icons/down-arrow.png</file>
+        <file>Images/Icons/search.png</file>
+        <file>Images/Icons/up-arrow.png</file>
+        <file>Images/Icons/aquatic.png</file>
+        <file>Images/Icons/cr.png</file>
+        <file>Images/Icons/dd.png</file>
+        <file>Images/Icons/en.png</file>
+        <file>Images/Icons/ew.png</file>
+        <file>Images/Icons/ex.png</file>
+        <file>Images/Icons/forest.png</file>
+        <file>Images/Icons/grassland.png</file>
+        <file>Images/Icons/lc.png</file>
+        <file>Images/Icons/mountain.png</file>
+        <file>Images/Icons/ne.png</file>
+        <file>Images/Icons/nt.png</file>
+        <file>Images/Icons/question.png</file>
+        <file>Images/Icons/scrubland.png</file>
+        <file>Images/Icons/urban.png</file>
+        <file>Images/Icons/vu.png</file>
+        <file>Images/Icons/wetland.png</file>
+        <file>Images/Icons/extra-large.png</file>
+        <file>Images/Icons/small.png</file>
+        <file>Images/Icons/medium.png</file>
+        <file>Images/Icons/bronze.png</file>
+        <file>Images/Icons/silver.png</file>
+        <file>Images/Icons/gold.png</file>
+        <file>Images/Icons/milking.png</file>
+        <file>Images/Icons/lizard.png</file>
+        <file>Images/Icons/frog.png</file>
+        <file>Images/Icons/feather.png</file>
+        <file>Images/Icons/basil.png</file>
+        <file>Images/Icons/tree.png</file>
+        <file>Images/Icons/volume.png</file>
+        <file>Images/Icons/volume2.png</file>
+        <file>Images/Backgrounds/marbleb.jpg</file>
+        <file>Images/Icons/armor.png</file>
+        <file>Images/Icons/semicircle.png</file>
+        <file>Images/Icons/shield.png</file>
+        <file>Images/Icons/embri.png</file>
+        <file>Images/Icons/lotion.png</file>
+        <file>Images/Icons/salad.png</file>
+        <file>Images/Icons/ayurveda.png</file>
+    </qresource>
+</RCC>

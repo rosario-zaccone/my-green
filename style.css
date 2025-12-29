@@ -1,0 +1,340 @@
+SearchWidget {
+    background-color: white;
+    border-radius: 10px;
+    font-family: Ubuntu;
+}
+
+QListView {
+    background-color: white;
+    border-radius: 10px;
+    font-family: Ubuntu;
+    color:dimgrey;
+    font-size: 22px;
+}
+
+MainWindow {
+    background-color:rgba(226, 232, 231, 0.945);
+}
+
+QPushButton#searchButton {
+    border-radius: 20px;
+    background-color: rgba(226, 232, 231, 0.945);
+    color:dimgrey;
+    image: url(":/Img/Images/Icons/search.png");
+}
+
+QPushButton#searchButton:pressed {
+    background-color: rgba(190, 195, 194, 0.945);
+}
+
+QLineEdit#searchName {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+
+}
+
+QComboBox QAbstractItemView {
+    border: 2px solid dimgrey;
+}
+
+QComboBox#typeCombo {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QComboBox#habitatCombo {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color: dimgrey;
+}
+
+QComboBox#csCombo {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QComboBox::drop-down {
+    border-radius: 10px;
+    width: 40px;
+}
+
+QComboBox::down-arrow {
+    height: 20px;
+    width: 16px;
+    image: url(":/Img/Images/Icons/down-arrow.png");
+}
+
+/* remove dialog */
+RemoveDialog {
+    background-color: white;
+    border-radius: 10px;
+    font-family: Ubuntu;
+}
+
+QLineEdit#removeName {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QPushButton#removeButton {
+    border-radius: 10px;
+    background-color: rgba(20, 156, 219, 0.945);
+    font-size: 16px;
+    color:white;
+}
+
+
+/* add form */
+OrganismForm {
+    background-color: white;
+    border-radius: 10px;
+    font-family: Ubuntu;
+}
+
+QLineEdit#addString {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QComboBox#addCombo {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QDoubleSpinBox#addSpin {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    font-size: 16px;
+    color:dimgrey;
+}
+
+QDoubleSpinBox::up-button {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    width: 40px;
+    color:dimgrey;
+}
+
+QDoubleSpinBox::down-button {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    width: 40px;
+    color:dimgrey;
+}
+
+QDoubleSpinBox::down-arrow {
+    height: 20px;
+    width: 16px;
+    image: url(":/Img/Images/Icons/down-arrow.png");
+}
+
+QDoubleSpinBox::up-arrow {
+    height: 20px;
+    width: 16px;
+    image: url(":/Img/Images/Icons/up-arrow.png");
+}
+
+QPushButton#addButton {
+    border-radius: 10px;
+    background-color: rgba(20, 156, 219, 0.945);
+    font-size: 16px;
+    color:white;
+}
+
+QTextEdit#addText {
+    border-radius: 10px;
+    background-color: rgba(226, 232, 231, 0.945);
+    color:dimgrey;
+    font-size: 16px;
+}
+
+/*card*/
+
+QLabel#typeCard {
+    border-radius: 10px;
+}
+
+QLabel#scoreCard {
+    border-radius: 10px;
+}
+
+QLabel#sizeCard {
+    border-radius: 10px;
+}
+QLabel#taxonomyCard {
+    background-color:whitesmoke;
+    font-style: italic;
+    font-family: ubuntu;
+    color: dimgrey;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+QLabel#dimensionCard {
+    background-color:whitesmoke;
+    
+    font-family: ubuntu;
+    font-weight: bold;
+    color: dimgrey;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+QLabel#habitatCard {
+    border-radius: 10px;
+}
+
+QLabel#csCard {
+    border-radius: 10px;
+}
+
+QTextEdit#descriptionCard {
+    background-color:whitesmoke;
+    font-family: ubuntu;
+    color: dimgrey;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 12px;
+    
+}
+
+LabelImage {
+    border-radius: 10px;
+    background-color:whitesmoke;
+}
+
+QLabel#titleImageCard {
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: ubuntu;
+    color:dimgrey;
+}
+
+QLabel#imageCard {
+    border: white;
+    border-radius: 40px;
+}
+
+QPushButton#buttonCard {
+    image: url(":/Img/Images/Icons/volume.png");
+    border-radius: 20px;
+    color:dimgrey;
+}
+
+QPushButton#buttonCard:pressed{
+    image: url(":/Img/Images/Icons/volume2.png");
+    border-radius: 20px;
+    color:dimgrey;
+}
+
+/*bird*/
+BirdCard {
+    background-color: rgb(200, 232, 246);
+    border-radius: 10px;
+}
+
+QLabel#nameBirdCard {
+    background-color:rgb(16, 175, 199);
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+/*amphibian card*/
+
+AmphibianCard {
+    background-color: rgb(191, 238, 223);
+    border-radius: 10px;
+}
+
+QLabel#nameAmphibianCard {
+    background-color:rgb(36, 174, 139);
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+/*mammal card*/
+MammalCard {
+    background-color: rgb(249, 231, 216);
+    border-radius: 10px;
+}
+
+QLabel#nameMammalCard {
+    background-color:orangered;
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+/*reptile card*/
+ReptileCard {
+    background-color: rgb(215, 227, 193);
+    border-radius: 10px;
+}
+
+QLabel#nameReptileCard {
+    background-color:darkgreen;
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+/*herb card*/
+HerbCard {
+    background-color: rgb(248, 227, 248);
+    border-radius: 10px;
+}
+
+QLabel#nameHerbCard {
+    background-color:purple;
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+/*tree card*/
+TreeCard {
+    background-color: rgb(203, 182, 157);
+    border-radius: 10px;
+}
+
+QLabel#nameTreeCard {
+    background-color:rgb(74, 125, 26);
+    font-size: 20px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    border-radius: 10px;
+}

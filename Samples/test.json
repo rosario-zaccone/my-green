@@ -1,0 +1,70 @@
+[
+    {
+        "type" : "bird",
+        "name" : "Martin Pescatore",
+        "taxonomy": ["Alcedo Atthis", "Alcedo", "Alcedinidae", "Coraciiformes"],
+        "habitat" : 4,
+        "cs" : 2,
+        "length" : 0.25,
+        "imgPath" : "",
+        "description" : "Il martin pescatore ha il becco beccoso.",
+        "rarity": true,
+        "noisePath" : "",
+        "weight" : 0.046,
+        "wingspan" : 0.26
+    },
+    {
+        "type" : "herb",
+        "name" : "Tarassaco",
+        "taxonomy": ["Taraxacum officinale", "Taraxacum", "Asteraceae", "Asterales"],
+        "habitat" : 0,
+        "cs" : 2,
+        "length" : 0.25,
+        "imgPath" : "",
+        "description" : "Il tarassaco fa i soffioni.",
+        "rarity": false,
+        "lffImgPath": "aaaaaaaaaaaa",
+        "uses": [true, false , true]
+    },
+    {
+        "type" : "amphibian",
+        "name" : "Tritone",
+        "taxonomy": ["Triturus carnifex", "Triturus", "Salamandridae", "Caudata"],
+        "habitat" : 4,
+        "cs" : 2,
+        "length" : 0.25,
+        "imgPath" : "",
+        "description" : "Il tritone crestato è un animale preistorico.",
+        "rarity": true,
+        "noisePath" : "",
+        "weight" : 0.086,
+        "larvalStageImgPath": "aaaaaaabbbb"
+    },
+    {
+        "type" : "reptile",
+        "name" : "Testuggine palustre europea",
+        "taxonomy": ["Emys orbicularis", "Emys", "Emydidae", "Testudines"],
+        "habitat" : 4,
+        "cs" : 3,
+        "length" : 0.25,
+        "imgPath" : "",
+        "description" : "Specie prossima alla minaccia",
+        "rarity": false,
+        "noisePath" : "",
+        "weight" : 0.086,
+        "scaleType": 3
+    },
+    {
+        "type" : "tree",
+        "name" : "Abete rosso",
+        "taxonomy": ["Picea abies", "Picea", "Pinaceae", "Pinales"],
+        "habitat" : 1,
+        "cs" : 2,
+        "length" : 0.25,
+        "imgPath" : "",
+        "description" : "Il martin pescatore ha il becco beccoso.",
+        "rarity": true,
+        "lffImgPath": "aaaaaaaaaaaa",
+        "diameter": 1.2
+    }
+]

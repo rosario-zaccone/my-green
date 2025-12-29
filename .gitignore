@@ -1,0 +1,9 @@
+# Qt build files
+Makefile*
+*.o
+*.pro.user
+.qmake.stash
+myGreen
+
+Media/Images/*
+Media/Sounds/*

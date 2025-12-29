@@ -1,0 +1,126 @@
+[
+    {
+        "cs": 2,
+        "description": "In passato il capriolo veniva considerato un animale solitario, sebbene oggi si sappia che ha un comportamento sociale complesso e articolato. Infatti, mentre i maschi conducono per gran parte dell'anno un'esistenza solitaria (anche perché già alla fine dell'inverno tra di loro iniziano le dispute territoriali), le femmine spesso vivono riunite in branchi, composti da 3-7 individui, diretti da una femmina dominante. In tali branchi le gerarchie e i rapporti sociali sono ben definiti e strutturati.\\nIl periodo degli amori va da metà luglio a fine agosto; il corteggiamento è costituito da una serie di inseguimenti della femmina da parte del maschio.\\nLa gestazione dura circa nove mesi e mezzo; l'ovulo, una volta fecondato, si impianta nell'utero materno e rimane quiescente fino a dicembre, quando riprende a svilupparsi. Questa caratteristica è detta ovoimplantazione differita. In passato il capriolo veniva considerato un animale solitario, sebbene oggi si sappia che ha un comportamento sociale complesso e articolato. Infatti, mentre i maschi conducono per gran parte dell'anno un'esistenza solitaria (anche perché già alla fine dell'inverno tra di loro iniziano le dispute territoriali), le femmine spesso vivono riunite in branchi, composti da 3Nel periodo che va dalla tarda primavera all'inizio dell'estate le femmine partoriscono, normalmente 1 o 2 piccoli, raramente tre, dal caratteristico mantello bruno fittamente maculato. Molto spesso le femmine lasciano il cucciolo nascosto nell'erba alta, mentre vagano nei paraggi in cerca di cibo.",
+        "footprintImgPath": "../myGreen/Media/Images/capriolo_imptonta.jpg",
+        "habitat": 4,
+        "imgPath": "../myGreen/Media/Images/3417757-s-Caprioli.jpg",
+        "length": 1.2,
+        "name": "capriolo",
+        "noisePath": "../myGreen/Media/Sounds/capriolo.wav",
+        "rarity": true,
+        "taxonomy": [
+            "capreolus_capreolus",
+            "capreolus",
+            "cervidae",
+            "cetartiodactyla"
+        ],
+        "type": "mammal",
+        "weight": 26
+    },
+    {
+        "cs": 2,
+        "description": "boooooooooo",
+        "diameter": 1,
+        "habitat": 0,
+        "imgPath": "../myGreen/Media/Images/ciliegio.jpg",
+        "length": 10,
+        "lffImgPath": [
+            "../myGreen/Media/Images/ciliegio_foglia.jpg",
+            "../myGreen/Media/Images/prunus_avium_fiore.jpg",
+            "../myGreen/Media/Images/prunus_avium_fruit__2_.jpg"
+        ],
+        "name": "ciliegio_selvatico",
+        "rarity": false,
+        "taxonomy": [
+            "prunus_avium",
+            "prunus",
+            "rosacee",
+            "roslaidae"
+        ],
+        "type": "tree"
+    },
+    {
+        "cs": 2,
+        "description": "Il Cormorano presenta un corpo lungo e affusolato di colore nero. Il suo robusto becco ha una caratteristica forma a uncino; grazie a un lungo ed elastico collo a forma di “S” riesce a nutrirsi di pesci, fagocitandoli direttamente nell’esofago. Questa specie spesso raggiunge grandi dimensioni: la lunghezza può variare da 79 a 102 cm e l’apertura alare da 121 a 160 cm. Il peso va da 1,5 finanche a 5,3 kg. Per distinguere i più giovani della specie, basta osservare il colore del piumaggio che, prima del raggiungimento dell’età adulta, ha una tonalità marroncina.\n\nSpecie “cosmopolita”, abita praticamente tutti i continenti. La sottospecie nominale (Phalacrocorax carbo carbo ) abita le coste atlantiche settentrionali; la sottospecie Phalacrocorax carbo sintesis  si trova in Europa centrale e meridionale e in Asia. Altre sottospecie abitano Africa e Oceania. In Italia, il Cormorano è svernante regolare, migratore, localmente estivante e nidificante stazionario.\nNel nostro Paese la specie nidifica sempre in vicinanza dell’acqua: il sito di presenza più vasto è quello di Valle Santa (Parco regionale del Delta del Po).\n",
+        "habitat": 3,
+        "imgPath": "../myGreen/Media/Images/cormorano.jpg",
+        "length": 1,
+        "name": "cormorano_comune",
+        "noisePath": "../myGreen/Media/Sounds/XC801047-Cormorano-Phalacrocorax-carbo.wav",
+        "rarity": false,
+        "taxonomy": [
+            "phalacrocorax_cardo",
+            "phalacrocorax",
+            "phalacrocoracidae",
+            "procellariiformes"
+        ],
+        "type": "bird",
+        "weight": 5,
+        "wingspan": 1.6
+    },
+    {
+        "cs": 2,
+        "description": "È una raganella di dimensioni medio-piccole, che raggiunge una lunghezza di 4–5 cm.\nPer molti versi è estremamente simile a Hyla arborea: la colorazione del dorso è di colore verde brillante, con ventre biancastro nettamente demarcato da una linea di colore dal grigio al beige. Dall'occhio si diparte una evidente striscia nera laterale che si prolunga fino all'inserzione dell'arto inferiore. Il maschio possiede un sacco vocale sotto la gola, che gonfiato raggiunge quasi la grandezza del corpo. Le dita sono dotate di cuscinetti adesivi.",
+        "habitat": 0,
+        "imgPath": "../myGreen/Media/Images/hyla_intermedia.jpg",
+        "larvalStageImgPath": "../myGreen/Media/Images/RaganellaIR04 .jpg",
+        "length": 0.05,
+        "name": "raganella_italiana",
+        "noisePath": "../myGreen/Media/Sounds/SAMPLE_Hyla_intermedia.wav",
+        "rarity": true,
+        "taxonomy": [
+            "hyla_intermedia",
+            "hyla",
+            "hylidae",
+            "anura"
+        ],
+        "type": "amphibian",
+        "weight": 0.006
+    },
+    {
+        "cs": 2,
+        "description": "Il tarassaco è una pianat erbacea molto comune.",
+        "habitat": 2,
+        "imgPath": "../myGreen/Media/Images/tarassaco.jpg",
+        "length": 0.2,
+        "lffImgPath": [
+            "../myGreen/Media/Images/tarassaco_foglia.jpg",
+            "../myGreen/Media/Images/tarassaco_fiore.jpg",
+            "../myGreen/Media/Images/Taraxacum_officinale_frutto.jpg"
+        ],
+        "name": "tarassaco_comune",
+        "rarity": false,
+        "taxonomy": [
+            "taraxacum_officinale",
+            "taraxacum",
+            "asteracaeae",
+            "astarales"
+        ],
+        "type": "herb",
+        "uses": [
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "cs": 5,
+        "description": "Questa specie possiede un carapace di forma ovale macchiettato di giallo, il colore può variare dal seppia al nero; gli esemplari vecchi sono generalmente più scuri di quelli giovani.\\nGli habitat ideali della testuggine palustre sono i canali con acque lente e abbondante vegetazione acquatica, le sponde, le lanche e gli stagni. Si tratta di una specie molto elusiva.\\nLa testuggine palustre è fortemente minacciata, in Italia questa specie era distribuita su quasi tutto il territorio nazionale ma purtroppo ha subito un forte declino. \\nUna delle principali minacce è la riduzione del suo habitat. Inoltre bisogna considerare il problema dell’introduzione di specie esotiche che competono con la nostra. In particolare la E. orbicularis risente della competizione della Testuggine palustre americana (Trachemys scripta). Questa specie concorre per le risorse alimentari e per il territorio con la nostra.\\nLa Testuggine palustre europea è considerata in Pericolo (EN) dalla Lista Rossa della IUCN ed è inserita nell’Allegato II della Direttiva Habitat.",
+        "habitat": 3,
+        "imgPath": "../myGreen/Media/Images/1200px-Emys_orbicularis_2009_G1 (1).jpg",
+        "length": 0.17,
+        "name": "testuggine_palustre_europea",
+        "noisePath": "",
+        "rarity": true,
+        "scaleType": 3,
+        "taxonomy": [
+            "emys_orbicularis",
+            "emys",
+            "emydidae",
+            "testudines"
+        ],
+        "type": "reptile",
+        "weight": 0.35
+    }
+]
